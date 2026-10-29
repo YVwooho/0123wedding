@@ -1,6 +1,5 @@
-#cy20270123wedding
-welcometooutwedding
-<!DOCTYPE html>
+#Wedding Invitation
+#welcometoourwedding
 <html lang="zh-TW" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
@@ -300,7 +299,7 @@ welcometooutwedding
                         <i class="fa-solid fa-location-dot"></i>
                     </div>
                     <h3 class="font-noto text-lg font-medium text-morandi-text mb-2">宴會地點 VENUE</h3>
-                    <p class="text-sm text-morandi-text font-medium no-wrap">福爾摩沙遊艇酒店 Formosa Yacht Resort</p>
+                    <p class="text-sm text-morandi-text font-medium no-wrap">福爾摩沙遊艇酒店</p>
                     <p class="text-xs text-morandi-muted mt-1 no-wrap">708001 台南市安平區安平路988號</p>
                     <p class="text-xs text-morandi-gold mt-2 font-cormorant font-semibold tracking-wider">TEL: 06-391-1313</p>
                 </div>
